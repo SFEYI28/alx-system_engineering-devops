@@ -4,3 +4,4 @@
 3. Display the content of two files
 4. Last lines of a file.
 5. Display first lines of a file
+6. Display third line of iacta file
