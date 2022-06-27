@@ -3,3 +3,4 @@
 2. Lets display a file - Display teh content of the /etc/passwd file
 3. Display the content of two files
 4. Last lines of a file.
+5. Display first lines of a file
